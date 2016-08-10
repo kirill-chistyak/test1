@@ -19,7 +19,7 @@ public class TestmatickIndexPage {
     public boolean isLogoPresent(){
         return driver.findElements(pageHeader).size() > 0;
     }
-
+//git master
     public String goToAutoTestPage(){
         WebElement element;
         element = driver.findElement(textOfLink);
