@@ -27,5 +27,4 @@ public class TestmatickIndexPage {
         waitForElement(".button_blue", driver);
         return driver.getTitle();
     }
-
 }
