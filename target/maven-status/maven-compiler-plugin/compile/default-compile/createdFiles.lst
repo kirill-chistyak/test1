@@ -1,0 +1,7 @@
+main\java\pages\GoogleSearchPage.class
+main\java\util\Validator.class
+main\java\Selenium2Example.class
+main\java\exceptions\FailedValidationException.class
+main\java\util\Initialize.class
+main\java\pages\TestmatickIndexPage.class
+main\java\pages\AutomatedTestingPage.class
