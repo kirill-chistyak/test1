@@ -15,11 +15,11 @@ public class TestmatickIndexPage {
     public TestmatickIndexPage(WebDriver driver){
         this.driver = driver;
     }
-//hfjrk
+
     public boolean isLogoPresent(){
         return driver.findElements(pageHeader).size() > 0;
     }
-//git master
+
     public String goToAutoTestPage(){
         WebElement element;
         element = driver.findElement(textOfLink);
